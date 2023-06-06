@@ -1,6 +1,6 @@
 # Car Fuel Price Prediction 
 
-## This Project helps to calculate the price of the fuel by the distance required to travel by a Car.
+## This Project helps to predict the price of fuel(Y) from the distance required to travel by Car as input(X).
 ### This is a Beginner ML project where a Simple Linear Regression algorithm is developed for modelling.
 
 ## Libraries Used:
