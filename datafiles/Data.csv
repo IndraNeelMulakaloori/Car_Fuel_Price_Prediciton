@@ -1,0 +1,301 @@
+Source,Destination,Distance,Cost
+Lohardaga,Cooch Behar,827.003,87918.68893
+Bikaner,Mamit,2870.403,305152.54293
+Chickmagalur,Hisar,2156.109,229215.94779
+Chhindwara,Mon,2198.27,233698.08370000002
+Darbhanga,Sultanpur,509.098,54122.208380000004
+Hanumangarh,Banka,1676.228,178199.79868
+Datia,Shivpuri,102.754,10923.777740000001
+Jalor,Nawanshahr,957.922,101836.68782
+Rewa,Barabanki,360.893,38366.53483
+Dharwad,Vellore,654.485,69578.30035
+Bijapur,Gautam Buddha Nagar,1426.548,151656.31788000002
+Ganderbal,Puducherry,3170.96,337104.7576
+Narayanpur,Hanumangarh,1744.933,185503.82723
+Giridih,South Sikkim,563.605,59916.847550000006
+Chandigarh,Nashik,1479.851,157322.95981000003
+Chandauli,Cuddalore,2056.976,218677.11856
+West Garo Hills,Seraikela,1068.07,113546.5217
+Karur,Dangs,1518.003,161378.89893
+Lakhimpur,Ri Bhoi,412.955,43901.24605
+Osmanabad,Bankura,1697.817,180494.92527
+Visakhapatnam,Champawat,1836.183,195204.61473
+Jodhpur,Fatehabad,516.471,54906.03201
+Bhilwara,Serchhip,2799.631,297628.77161
+Dholpur,Mewat,211.98,22535.5938
+Gaya,Allahabad,365.636,38870.76316
+Murshidabad,Khammam,1461.093,155328.79683
+Srinagar,Upper Subansiri,3396.898,361124.22638
+Purba Champaran,Bharatpur,880.395,93594.79245
+North Delhi,Jaisalmer,761.354,80939.54374000001
+Bhilwara,Madhepura,1546.755,164435.52405
+Amreli,Vaishali,1948.785,207175.33335
+Dausa,Nadia,1507.297,160240.74407000002
+Sant Ravidas Nagar,Lunglei,2719.313,289090.16503000003
+East Singhbhum,Barpeta,999.342,106240.04802
+Pauri Garhwal,Kaithal,345.008,36677.80048
+Tikamgarh,Siwan,758.42,80627.6302
+Godda,Seoni,1128.118,119930.22458
+Bharatpur,Sant Ravidas Nagar,197.078,20951.36218
+Lower Dibang Valley,Anand,3080.143,327450.00233
+Kawardha,Neemuch,960.918,102155.19258
+Bilaspur,Kamrup,2243.462,238502.44522
+Kollam,Kinnaur,3308.776,351755.97656
+Narmada,Darjeeling,2117.09,225067.8379
+Shravasti,Raigarh,799.605,85006.00755000001
+Bargarh,Sirohi,1504.767,159971.77977000002
+Bahraich,Kapurthala,911.918,96946.00258
+Chandrapur,Cuddalore,1136.702,120842.78962
+Mathura,Jalpaiguri,1371.796,145835.63276
+Chandrapur,Kandhamal,634.744,67479.63464
+Latur,Salem,962.876,102363.34756
+Rajkot,Dhubri,2544.612,270517.70172
+Gondia,Sitamarhi,1087.245,115585.01594999999
+Darrang,Kapurthala,2328.811,247575.89741000003
+Nainital,Uttarkashi,424.366,45114.34946
+Khordha,Tehri Garhwal,1925.136,204661.20816
+Surendranagar,Bundi,649.9,69090.869
+Kathua,Bastar,2004.262,213073.09322
+Dakshin Kannada,Moga,2222.075,236228.79325
+Jhunjhunu,Ujjain,689.154,73263.96174
+Lower Subansiri,Krishnagiri,3253.606,345890.85386000003
+Alirajpur,Osmanabad,662.005,70377.75155
+Mainpuri,Fatehabad,565.451,60113.095810000006
+Nainital,Khandwa,1059.142,112597.38602
+Jorhat,North East Delhi,2194.775,233326.53025
+Bishnupur,Lakhimpur,622.955,66226.34605000001
+Lunglei,Nagpur,2340.042,248769.86502
+Chhindwara,Kulgam,1685.037,179136.28347
+Beed,Bhagalpur,1736.702,184628.78962
+Tirap,Lower Subansiri,370.144,39350.00864
+Bathinda,Subarnapur,1754.102,186478.58362000002
+Jyotiba Phule Nagar,Muktsar,538.009,57195.73679
+Thoothukudi,Mahesana,2148.67,228425.10770000002
+East Sikkim,Sheopur,1595.1,169575.081
+Satara,Kupwara,2409.064,256107.59384
+Jalgaon,Nayagarh,1371.617,145816.60327
+Dindigul,Durg,1693.293,180013.97882999998
+Jalandhar,Gonda,971.087,103236.25897
+Jhunjhunu,Mandi,543.551,57784.90681000001
+Mandya,Ahmednagar,884.459,94026.83628999999
+Golaghat,Gaya,1195.741,127119.22571
+Palakkad,Jodhpur,2260.18,240279.7358
+Lakhimpur,Bareilly,1963.651,208755.73781000002
+Bhavnagar,Thane,600.837,63874.98147
+Shajapur,Dharwad,1130.21,120152.6251
+Raipur,Solan,1492.72,158691.0632
+Nawada,Nagaur,1402.543,149104.34633
+Purnia,South Dinajpur,93.482,9938.07142
+Maharajganj,Sant Ravidas Nagar,834.461,88711.54891
+Jabalpur,Davanagere,1424.926,151483.88306
+Bhandara,Vizianagaram,673.893,71641.56483
+Simdega,Kolkata,506.372,53832.407320000006
+Bastar,North Cachar Hills,1984.227,210943.17237000001
+Lakhisarai,Howrah,460.38,48942.9978
+Khandwa,Shimla,1281.94,136283.04140000002
+South Sikkim,Kamrup,498.222,52965.98082
+East Siang,Rajnandgaon,2209.469,234888.64939
+Patiala,Haridwar,226.55,24084.5305
+Serchhip,Raipur,1980.496,210546.52976
+Madurai,Chatra,2159.986,229628.11166
+Amravati,Kodagu,1283.269,136424.32739
+Shimla,Haridwar,307.207,32659.17617
+Barpeta,Bhopal,1779.899,189221.06269
+Valsad,Chittorgarh,636.353,67650.68742999999
+Dausa,Chickmagalur,1908.205,202861.27354999998
+Sehore,Mahoba,419.181,44563.13211
+Pithoragarh,Rewari,562.314,59779.60134
+Narsinghpur,Dungarpur,717.137,76238.83447
+Bijnor,North Dinajpur,1335.835,142012.61885
+Poonch,Rajnandgaon,2056.445,218620.66795000003
+Dindigul,Zunheboto,3461.884,368032.88804
+Etah,Aurangabad,1116.953,118743.27343
+Lakshadweep,Kozhikode,,
+Haveri,Dausa,1695.1,180206.081
+Surguja,Tawang,1760.288,187136.21728
+Narayanpur,Nandurbar,1011.615,107544.79065000001
+Jamnagar,Rewa,1356.58,144218.0198
+Kanchipuram,Almora,2409.056,256106.74336000002
+Bhavnagar,Mau,1644.205,174795.43355
+Fatehabad,Upper Subansiri,2836.259,301522.69429
+Puri,Ratnagiri,1739.9,184968.769
+Shravasti,Gautam Buddha Nagar,644.642,68531.89102000001
+Siddharthnagar,Tuensang,1620.124,172235.38244000002
+Satara,Lalitpur,1270.835,135102.46885
+Burhanpur,Madhubani,1393.342,148126.18802
+Hoshangabad,Pulwama,1666.21,177134.7851
+Nalbari,Bastar,1761.41,187255.4971
+West Siang,North Delhi,2514.353,267300.86743
+South Delhi,Sivaganga,2154.003,228992.05893000003
+Dadra and Nagar Haveli,Khandwa,534.428,56815.04068
+Krishnagiri,Kaithal,2422.958,257584.66498
+Unnao,Tiruvarur,2182.255,231995.52905
+Budaun,Thoothukudi,2663.251,283130.21381000004
+Shahdol,Osmanabad,1138.627,121047.43637
+Rayagada,Dibang Valley,2613.569,277848.52039
+Pratapgarh,Goalpara,2170.799,230777.64169
+Raisen,Kollam,2152.323,228813.45812999998
+Rewari,East Godavari,1986.064,211138.46384
+Mahe,Sirmaur,2664.981,283314.13011
+North Goa,East Singhbhum,2104.696,223750.23176
+Puri,Shimoga,1511.195,160655.14045
+Burhanpur,Ambedkar Nagar,1073.218,114093.80558000001
+Tiruvarur,Tumkur,499.683,53121.29973
+Barpeta,Upper Siang,873.59,92871.35290000001
+Baksa,Darjeeling,435.206,46266.74986
+Parbhani,Haveri,631.483,67132.95773
+Chandigarh,Jaipur,472.674,50249.97294
+Gautam Buddha Nagar,Kollam,2773.423,294842.59913
+Gonda,Rewa,356.642,37914.611020000004
+Lakhisarai,Barabanki,646.44,68723.03640000001
+Hardoi,Chandigarh,636.442,67660.14902
+Bijapur,Kannur,1269.17,134925.4627
+Gorakhpur,Muktsar,1206.215,128232.71664999999
+Adilabad,Sultanpur,939.267,99853.47477
+Jaisalmer,Cachar,3029.013,322014.37202999997
+Srinagar,Bangalore,2961.476,314834.51356
+Salem,Umaria,1702.111,180951.42041000002
+Barnala,Kannauj,733.796,78009.85276000001
+Mirzapur,Sant Kabir Nagar,248.652,26434.19412
+Betul,Beed,553.568,58849.81408
+Deoria,Bhilwara,1163.149,123654.37018999999
+Hardoi,Agra,277.927,29546.419370000003
+Gurdaspur,Bilaspur,1600.728,170173.39368
+Chhatarpur,Malappuram,1953.51,207677.6481
+Maharajganj,Panipat,924.632,98297.62792
+Aizawl,Unnao,2086.924,221860.89044
+Jhabua,Nalanda,1373.562,146023.37622
+Chandauli,Pratapgarh,203.037,21584.86347
+Ambedkar Nagar,Tiruvallur,1950.274,207333.62894
+Reasi,Peren,2912.766,309656.15346
+Bongaigaon,Thiruvananthapuram,3319.811,352929.10741
+Baleswar,Bijnor,1504.233,159915.01022999999
+Ballia,Surguja,447.807,47606.36217
+Diu,East Siang,3410.296,362548.56776
+Jaipur,Alwar,175.22,18627.6382
+Nainital,Thiruvananthapuram,2977.18,316504.0058
+Srinagar,Kandhamal,2366.394,251571.34613999998
+Idukki,Diu,2324.414,247108.45234000002
+Mumbai,Thiruvananthapuram,1741.293,185116.85882999998
+Dindigul,Thane,1363.252,144927.32012
+Thoothukudi,Jorhat,3539.694,376304.86914
+Surendranagar,Dehradun,1334.274,141846.66894
+Ratlam,Vizianagaram,1311.328,139407.27968
+Jashpur,Narsinghpur,724.571,77029.14301
+South Garo Hills,Fatehpur,1359.887,144569.58697
+Jammu,Mayurbhanj,2134.821,226952.82051
+Farrukhabad,Madhepura,933.652,99256.54412
+Virudhunagar,Karauli,2453.674,260850.08294
+North West Delhi,Jhunjhunu,233.507,24824.12917
+Ambala,Parbhani,1664.119,176912.49089
+Akola,Champhai,2627.052,279281.89812
+Gurgaon,Gonda,665.831,70784.49361
+Tapi,Ambala,1357.671,144334.00401
+Mon,Rajnandgaon,2112.381,224567.22410999998
+Lakhimpur,Sangrur,2517.683,267654.87973
+South West Delhi,Guna,552.066,58690.13646
+Gurdaspur,Sitapur,882.13,93779.2403
+Jamtara,Gondia,1026.936,109173.56615999999
+Raigarh,Una,1652.337,175659.94647
+Hazaribag,Buldhana,1414.879,150415.78649
+Mahasamund,Khordha,486.387,51707.80197
+Khandwa,Katihar,1467.2,155978.032
+Gurgaon,Valsad,1210.696,128709.09176
+Kishtwar,Yavatmal,1990.356,211594.74636
+Kanyakumari,Wokha,3676.155,390812.03805000003
+Gumla,Surat,1635.297,173848.42407
+Puducherry,Raigad,1276.611,135716.51541000002
+Madurai,Bharuch,1742.319,185225.93289
+Sonbhadra,Dhule,1170.853,124473.38243000001
+Godda,Sheopur,1316.916,140001.33995999998
+Kendujhar,Jodhpur,1950.854,207395.28874000002
+Hardoi,Champhai,2321.409,246788.99079
+Nawanshahr,Pashchim Champaran,1251.633,133061.10423
+Panna,Jamui,719.773,76519.06763
+Shahjahanpur,Singrauli,692.491,73618.71821
+Osmanabad,Godda,1881.816,200055.85896
+Krishnagiri,Bastar,1087.297,115590.54407
+Sirmaur,Parbhani,1769.837,188151.37147
+Nagaur,Jyotiba Phule Nagar,605.796,64402.17276000001
+Kargil,Chandigarh,766.738,81511.91678000001
+Dungarpur,Uttar Kannada,1321.885,140529.59435
+North Cachar Hills,Nayagarh,1506.993,160208.42583
+Rampur,Ballia,737.975,78454.12225
+Kulgam,Adilabad,2016.578,214382.40718
+Simdega,West Sikkim,918.208,97614.69248
+Kangra,Chennai,2661.179,282909.93949
+Surguja,Bijapur,1425.091,151501.42421
+Mon,Sivaganga,3060.419,325353.14389
+Jaisalmer,Khargone,973.403,103482.47293
+Garhwa,Latehar,98.851,10508.84981
+Ratlam,Tiruchirappalli,1777.676,188984.73556
+Dibang Valley,Dharmapuri,3688.812,392157.60372
+Ahmednagar,Barabanki,1369.384,145579.21304
+Singrauli,Ganjam,829.508,88184.99548000001
+Kottayam,Anuppur,2137.361,227222.84790999998
+Sindhudurg,Haridwar,2044.689,217370.88759
+Mahasamund,Ferozepur,1634.002,173710.75261999998
+Tamenglong,North Dinajpur,1107.965,117787.75915
+Dangs,Bardhaman,1924.72,204616.98320000002
+Samastipur,Hassan,2368.035,251745.80085
+Buxar,Dehradun,943.813,100336.76003
+Bulandshahr,Shahjahanpur,244.072,25947.29432
+Akola,Jhansi,705.998,75054.64738000001
+Puducherry,Bagalkot,790.255,84012.00905000001
+Auraiya,Narmada,1015.852,107995.22612
+Dhar,Hooghly,1585.307,168533.98717
+Dhanbad,Phek,1382.601,146984.31231
+Kendujhar,Ghaziabad,1557.542,165582.29002
+Seoni,Lakhimpur,2039.559,216825.51729
+Cuddapah,Nalbari,2575.759,273828.93929
+Ri Bhoi,Belgaum,2908.054,309155.22074
+Theni,Mau,2391.555,254246.21205
+Mansa,Churachandpur,2754.347,292814.62957000005
+Kota,Thiruvananthapuram,2407.508,255942.17547999998
+Jharsuguda,West Delhi,1308.514,139108.12334
+Datia,West Medinipur,1191.365,126654.01315
+Rewari,West Garo Hills,1953.84,207712.7304
+Vidisha,Sitamarhi,1009.821,107354.07051
+Bijnor,Jhajjar,221.073,23502.270630000003
+Sehore,Jammu,1387.76,147532.7656
+East Godavari,Balangir,621.236,66043.59916
+West Sikkim,Bidar,2057.941,218779.70771
+Buldhana,Bongaigaon,2067.754,219822.92773999998
+Aligarh,Lakhisarai,972.28,103363.0868
+Hamirpur,Fatehpur,913.144,97076.33864
+Satna,Betul,546.923,58143.38413
+Ajmer,Kurukshetra,528.47,56181.6457
+Amreli,Cuddapah,1763.095,187434.62945
+Doda,Perambalur,3132.313,332996.19503
+Rajnandgaon,Mansa,1505.827,160084.46837000002
+Bhojpur,Vaishali,111.366,11839.31946
+Surguja,Budaun,928.833,98744.23623
+Azamgarh,Gadag,1825.183,194035.20473
+Rajnandgaon,Mathura,1057.604,112433.88124
+West Garo Hills,Nizamabad,1806.706,192070.91486
+Chitrakoot,Ramanathapuram,2107.81,224081.2811
+Dhenkanal,Sant Ravidas Nagar,1647.877,175185.80387
+Mahendragarh,Karur,2424.513,257749.97703
+Dausa,Yamunanagar,463.53,49277.874299999996
+South 24 Parganas,Dindori,1008.756,107240.85036
+Pauri Garhwal,Rajgarh,993.931,105664.80461
+Dhenkanal,Kaimur,708.78,75350.40179999999
+Rewari,Howrah,1577.446,167698.28426
+Raigarh,Chamrajnagar,1791.203,190422.79093
+Siwan,Sidhi,424.604,45139.65124
+Mamit,Bikaner,2866.013,304685.84203
+Chickmagalur,Goalpara,3021.613,321227.67803
+Thiruvananthapuram,Nuapada,1939.19,206155.2889
+Porbandar,Sindhudurg,1309.295,139191.15145
+Uttar Kannada,Kozhikode,481.236,51160.19916
+Sirohi,Bhadrak,2058.953,218887.29343
+Dhubri,Indore,1940.612,206306.46172000002
+Bilaspur,Lahul & Spiti,1822.397,193739.02507
+Guna,Lakhimpur,2196.797,233541.48907
+Jajpur,Tikamgarh,1220.907,129794.62316999999
+Daman,Chhindwara,885.411,94128.04341
+Neemuch,Pilibhit,966.602,102759.45862
+Buxar,Ballia,39.819,4233.15789
+Rewari,Bargarh,1400.87,148926.4897
+Sabar Kantha,Bongaigaon,2307.469,245307.02939
+Koriya,Aurangabad,1016.935,108110.35985
