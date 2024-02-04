@@ -3,16 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>What the hell & heaven ra</title>
+    <title>Fuel Price Prediction</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <h1>This is my first Flask project </h1>
-    <p>Hope you like it</p>
-    <form  method="post" action="{{url_for('result')}}"  class="form-class">
-        <input type="text" name="firstName" id="first" placeholder="Enter your Name"> <label for="firstValue">First Name</label>
-        <input type="text" name="lastName" id="second" placeholder="Enter your Name"> <label for="secondValue">Last Name</label>
-        <button type="submit" value="submit">Click here</button>
+    <h1>Fuel Price prediction</h1>
+    <p>Please enter the distance in (km)</p>
+    <form  method="post" action="/result"  class="form-class">
+        <label for="distance">Distance: </label> <input type="text" name="distance" id="distance"> 
+        <button type="submit">Click Here</button>
     </form>
 </body>
 </html>

@@ -6,6 +6,9 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-
-if '__name__' == '__main__':
+@app.route('/result',methods=['GET','POST'])
+def result():
+    distance = request.form['distance']
+    return render_template('result.html',distance=distance)
+if __name__ == '__main__':
     app.run(debug=True)
