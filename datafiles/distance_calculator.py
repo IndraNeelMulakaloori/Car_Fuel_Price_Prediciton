@@ -27,7 +27,7 @@ def distance_calculator(api_key,base_url,src,dest):
     #     print("Good to go")
     
 
-def populate_data(cities_list,api_key,base_url,fuel_cost = 106.31):
+def populate_data(cities_list,api_key,base_url,fuel_cost = 106.31,mileage = 15):
     dup_list = []
     data_list = []
     for _ in range(300):
@@ -38,7 +38,7 @@ def populate_data(cities_list,api_key,base_url,fuel_cost = 106.31):
                 'Source' : cities[0][0],
                 'Destination' : cities[1][0],
                 'Distance' : distance,
-                'Cost' : distance * fuel_cost if distance != None else None
+                'Fuel Cost' : (distance / mileage * fuel_cost) if distance != None else None
             })
             dup_list.append(cities)
         else : 
