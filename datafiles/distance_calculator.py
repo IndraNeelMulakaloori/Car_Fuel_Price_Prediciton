@@ -27,7 +27,7 @@ def distance_calculator(api_key,base_url,src,dest):
     #     print("Good to go")
     
 
-def populate_data(cities_list,api_key,base_url):
+def populate_data(cities_list,api_key,base_url,fuel_cost = 106.31):
     dup_list = []
     data_list = []
     for _ in range(300):
@@ -38,7 +38,7 @@ def populate_data(cities_list,api_key,base_url):
                 'Source' : cities[0][0],
                 'Destination' : cities[1][0],
                 'Distance' : distance,
-                'Cost' : distance * 106.31 if distance != None else None
+                'Cost' : distance * fuel_cost if distance != None else None
             })
             dup_list.append(cities)
         else : 
@@ -47,11 +47,11 @@ def populate_data(cities_list,api_key,base_url):
         # dest = cities[1]
         # print(type(src[0]),src[1],dest[0],dest[1])
         cities_df = pd.DataFrame.from_dict(data_list)
-        cities_df.to_csv("Fuel_prediciton/datafiles/Data.csv",index=False)
+        cities_df.to_csv("Data.csv",index=False)
 
 if __name__ == "__main__" :
     #Opening and loading the url to config from config.json
-    with open("Fuel_prediciton/datafiles/config.json") as f :
+    with open("config.json") as f :
         config = json.load(f)
         
     api_key,base_url = config['api']['access_key'],config['api']['endpoint']
