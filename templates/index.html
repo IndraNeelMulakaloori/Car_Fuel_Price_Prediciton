@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fuel Price Prediction</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
     <h1>Fuel Price prediction</h1>
-    <p>Please enter the distance in (km)</p>
+    <h2>Please enter the distance in (km)</h2>
     <form  method="post" action="/predict"  class="form-class">
         <label for="distance">Distance: </label> <input type="text" name="distance" id="distance"> 
         <button type="submit">Click Here</button>

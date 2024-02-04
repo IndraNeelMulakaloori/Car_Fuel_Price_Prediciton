@@ -14,7 +14,13 @@ def index():
 
 @app.route('/predict',methods=['GET','POST'])
 def predict():
-    distance = float(request.form['distance'])
+    try:
+        distance = float(request.form['distance'])
+    
+    except Exception as e:
+        print("Something went wrong. Check distance_calculator.py" + str(e))
+        return render_template('index.html')
+
     fuelPrice = round(model.predict(scale.transform(np.array(distance).reshape(-1,1)))[0],2)
     return render_template('predict.html',distance=distance,fuelPrice=fuelPrice)
 if __name__ == '__main__':

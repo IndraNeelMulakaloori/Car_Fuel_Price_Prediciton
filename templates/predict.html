@@ -3,10 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Fuel Price Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
     <h1>Your trip would cost Rs. {{fuelPrice}} approximately </h1>
-    <h2>with a travel of {{distance}} kms.</h2>
+    <h2>when travelled {{distance}} kms.</h2>
 </body>
 </html>
